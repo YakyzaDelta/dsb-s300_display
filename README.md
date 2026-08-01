@@ -13,6 +13,6 @@ Also on the back of the board are two 74HC595D.
 
 Program for ESP32, for Arduino version 2.1.1
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YakyzaDelta/dsb-s300_display/main/dsb-s300_display/photo_2026-08-01_18-58-17.jpg" width="400" alt="Дисплей DSB-S300">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/YakyzaDelta/dsb-s300_display/main/dsb-s300_display/photo_2026-08-01_18-58-17.jpg" width="600" alt="Дисплей DSB-S300">
 </p>
