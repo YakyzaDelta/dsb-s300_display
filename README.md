@@ -6,8 +6,8 @@ We connect directly to the board from the old DSB-S300. Among the features, the 
 4) NC
 5) rclk - ST_CP
 6) NC
-7)
-IR 8) +3.3v.
+7) IR
+8) +3.3v
 
 Also on the back of the board are two 74HC595D.
 
